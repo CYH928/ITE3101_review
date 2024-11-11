@@ -6,6 +6,6 @@ def func(p:List[str])->str: # define the function called func with parameter p l
     for i in p:
         print(i)
 
-print(func(animal))
+func(animal)
 
 # end of P.320

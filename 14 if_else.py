@@ -8,7 +8,7 @@ number = int(input("num: "))
 if number > 10:
     print('more than 10')
 elif number == 5:
-    exit()
+    exit() # exit for the if else
     print('equal 5')
 elif number < 0:
     print('less than 0')

@@ -1,5 +1,5 @@
-var = 1
+var = 1 # variable
 
-del var
+del var # delete function
 
 print(var) # will error

@@ -11,30 +11,31 @@ print(lists[-1]) # display the last one item
 print(len(lists)) # list length = 6
 
 
-# lists.append(99999) # append the str/int/float to the last of list
-# ls()
+lists.append(99999) # append the str/int/float to the last of list
+ls()
 
-# lists[6] = 33333 # replace which place of the list item
-# ls()
+lists[6] = 33333 # replace which place of the list item
+ls()
 
-# lists.reverse() # reverse currently order
-# ls()
+lists.reverse() # reverse currently order
+ls()
 
-# # print(sorted(lists))
-# lists.sort() # sort the list item
-# ls()
+# print(sorted(lists))
+lists.sort() # sort the list item
+ls()
 
-# lists.insert(3, 44444) # insert the str/int/float to the list which place
-# ls()
+lists.insert(3, 44444) # insert the str/int/float to the list which place
+ls()
 
-# del lists[3] # delete the list which place item
-# ls()
+del lists[3] # delete the list which place item
+ls()
 
-# lists.remove(33333) # remove the value for the list
-# ls()
+lists.remove(33333) # remove the value for the list
+ls()
 
-# lists += [1, 2, 3] # list + list
-# ls()
+lists += [1, 2, 3] # list + list
+# lists = lists + [1, 2, 3]
+ls()
 
 
 # -------------------- String List --------------------

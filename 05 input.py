@@ -1,4 +1,4 @@
-message = input("What is your input: ") # input 
+message = input("What is your input: ") # input (str)
 print("Your message is -> "+message)
 
 # but can't

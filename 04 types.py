@@ -10,8 +10,8 @@ print(type(i)) # <class 'int'>
 print(type(f)) # <class 'float'>
 print(type(b)) # <class 'bool'>
 
-t = []
-print(type(t)) # <class 'list'>
+l = [100, 200, 300] # list
+print(type(l)) # <class 'list'>
 
 
 print(type(print)) # <class 'builtin_function_or_method'>
