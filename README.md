@@ -1,5 +1,5 @@
-This Python code review is written by Alex Chang, 
+This Python code review is written by YKHN C., 
 
-Python use for On-line games, Web services, Applications, Science, etc.
+Python used for On-line games, Web services, Applications, Science, etc.
 
-Python is Case Sensitive, such as don't use PRINT() is not work!!!
+Python is case sensitive, such as not using PRINT(), which does not work!!!
